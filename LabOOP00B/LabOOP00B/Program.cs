@@ -20,3 +20,6 @@ student4.weight = 45.0;
 
 double avgWeight = (student1.weight + student2.weight + student3.weight + student4.weight) /4;
 Console.WriteLine("Weight avg of student : " + avgWeight);
+Console.WriteLine("Weight max of student : " + student3.name + student3.weight);
+Console.WriteLine("Weight min of student : " + student4.name + student4.weight);
+Console.WriteLine("รามิล ไกยบุตร 653450297-4");
