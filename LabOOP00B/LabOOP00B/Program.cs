@@ -8,7 +8,7 @@ student1.weight = 60.0;
 
 Student student2 = new Student();
 student2.name = "onpreeya";
-student2.weight = 20.0;
+student2.weight = 54.0;
 
 Student student3 = new Student();
 student3.name = "thanaporn";
